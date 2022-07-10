@@ -1,5 +1,5 @@
-const price = 100;
+let price = 100;
 console.log(price * 2);
 
-const log = 100;
-console.log(price * 10);
+price = 500;
+console.log(price * 2);
